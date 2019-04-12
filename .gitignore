@@ -1,3 +1,5 @@
+#generated example files
+example/*.h5
 # Prerequisites
 *.d
 
